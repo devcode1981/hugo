@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "docs/themes/gohugoioTheme/src/package.json"
+      ]
+    }
+  }
+}
